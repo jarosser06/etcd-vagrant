@@ -2,7 +2,9 @@
 *.rbc
 .bundle
 .config
+.vagrant
 coverage
+Berksfile.lock
 InstalledFiles
 lib/bundler/man
 pkg
@@ -16,3 +18,5 @@ tmp
 .yardoc
 _yardoc
 doc/
+.kitchen/
+.kitchen.local.yml
